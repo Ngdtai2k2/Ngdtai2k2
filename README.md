@@ -4,6 +4,15 @@
 
 ---
 
+<p align="center">
+  <img src="https://sdmntpreastus.oaiusercontent.com/files/00000000-ce6c-61f9-8666-a5c3ec493cff/raw?se=2025-08-17T17%3A38%3A58Z&sp=r&sv=2024-08-04&sr=b&scid=08fea150-bdc1-52b1-b348-88005f68376c&skoid=b0fd38cc-3d33-418f-920e-4798de4acdd1&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-16T23%3A46%3A28Z&ske=2025-08-17T23%3A46%3A28Z&sks=b&skv=2024-08-04&sig=yjzqQIcANNNUckW0pQ48JARneRNgn6EjuOGcxW945As%3D" alt="Universe 3D" width="100%"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Nguyen Duc Tai</h1>
+
+
+---
+
 ## 🚀 About Me
 I’m currently learning and working with frontend development, while also exploring Node.js, Express, and other languages and technologies. My goal is to build applications that are simple, clean, and user-friendly.
 
