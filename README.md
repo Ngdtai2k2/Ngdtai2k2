@@ -34,8 +34,9 @@ I’m currently learning and working with frontend development, while also explo
 
 ## 🌍 Connect with me  
 
-[![Email](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=EA4335)](mailto:ngdtai2k2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=EA4335)](mailto:ngdtai2k2@gmail.com)  
+[![Facebook](https://img.shields.io/badge/Facebook-000?logo=facebook&logoColor=1877F2)](https://fb.me/ngdtai2k2)
 
 ---
 
-⭐️ From [YourName](https://github.com/Ngdtai2k2)
+⭐️ From [Ngdtai2k2](https://github.com/Ngdtai2k2)
