@@ -61,7 +61,10 @@ I’m currently learning and working with frontend development, while also explo
 ## 🐍 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ngdtai2k2/Ngdtai2k2/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ngdtai2k2/Ngdtai2k2/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Ngdtai2k2/Ngdtai2k2/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  </picture>
 </p>
 
 ---
