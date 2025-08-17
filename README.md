@@ -12,6 +12,7 @@ I’m currently learning and working with frontend development, while also explo
 ## 🛠️ Tech Stack
 
 **Languages & Tools**  
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=339933)  
@@ -20,6 +21,10 @@ I’m currently learning and working with frontend development, while also explo
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED)  
 ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?logo=bootstrap&logoColor=7952B3)  
+![PHP](https://img.shields.io/badge/PHP-000?logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel&logoColor=FF2D20)
 
 ---
 
